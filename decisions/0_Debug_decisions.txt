@@ -1,0 +1,64 @@
+political_decisions = {
+	debug_open_all = {
+		potential = {
+			NOT = {
+				has_country_flag = is_debug
+			}
+		}
+		effect = {
+			set_country_flag = is_debug
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	debug_close_all = {
+		potential = {
+			has_country_flag = is_debug
+		}
+		effect = {
+			clr_country_flag = is_debug
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	debug_assimilate_all = {
+		potential = {
+			has_country_flag = is_debug
+		}
+		effect = {
+			any_owned = {
+				assimilate = yes
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	debug_add_pop = {
+		potential = {
+			has_country_flag = is_debug
+		}
+		effect = {
+			add_country_modifier = {
+				name = debug_pop_increase
+				duration = 365
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	debug_down_militancy_all = {
+		potential = {
+			has_country_flag = is_debug
+		}
+		effect = {
+			militancy = -1
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

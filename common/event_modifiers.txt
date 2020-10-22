@@ -2698,3 +2698,9 @@ fascist_stronghold = {
 	pop_militancy_modifier = 0.05
 	icon = 3
 }
+
+### Debug Modifiers ###
+debug_pop_increase = {
+	icon = 19
+	global_population_growth = 0.1
+}

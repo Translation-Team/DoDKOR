@@ -1,0 +1,13 @@
+;;;;;;;;;;;;;;
+debug_pop_increase_title;인구 증가율 증가;;;;;;;;;;;;;
+debug_pop_increase_desc;전국적인 인구의 증가율을 일시적으로 늘려주는 효과입니다.;;;;;;;;;;;;;
+debug_open_all_title;디버그 디시전 열기;;;;;;;;;;;;;
+debug_open_all_desc;디버그 디시전을 보이게 설정합니다.;;;;;;;;;;;;;
+debug_close_all_title;디버그 디시전 닫기;;;;;;;;;;;;;
+debug_close_all_desc;디버그 디시전을 보이지 않게 설정합니다.;;;;;;;;;;;;;
+debug_assimilate_all_title;모든 인구 주 문화로 변환;;;;;;;;;;;;;
+debug_assimilate_all_desc;모든 주의 인구를 주 문화로 변환합니다 (수용문화 포함);;;;;;;;;;;;;
+debug_add_pop_title;인구 증가율 증가;;;;;;;;;;;;;
+debug_add_pop_desc;모든 주의 인구 증가율을 일시적으로 늘려줍니다;;;;;;;;;;;;;
+debug_down_militancy_all_title;모든 인구의 불만도 감소;;;;;;;;;;;;;
+debug_down_militancy_all_desc;모든 인구의 불만도를 감소시킵니다;;;;;;;;;;;;;
