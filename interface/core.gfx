@@ -723,7 +723,7 @@ bitmapfonts = {
 	
 	bitmapfont = {
 		name = "Arial12_alpha"
-		fontname = "Arial12_alpha"
+		fontname = "Arial12_kor"
 		color = 0xffffffff
 	}
 	
